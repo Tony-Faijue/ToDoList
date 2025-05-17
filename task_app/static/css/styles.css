@@ -1,0 +1,8 @@
+body {
+    background-color: cornsilk;
+}
+#agent, .card, #CreateForm, #UpdateForm, #ConfirmDeleteTask {
+    box-shadow: 5px 5px 10px rgb(128, 128, 128);
+
+}
+

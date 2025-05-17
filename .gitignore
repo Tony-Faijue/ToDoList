@@ -1,0 +1,12 @@
+#Python compiled files
+*.pyc
+__pycache__/
+#Virtual environment directories and environment varibales
+.env
+env/
+#Django database stuff
+*.sqlite3
+db.sqlite3
+*.log
+#VSCode settings
+.vscode/
